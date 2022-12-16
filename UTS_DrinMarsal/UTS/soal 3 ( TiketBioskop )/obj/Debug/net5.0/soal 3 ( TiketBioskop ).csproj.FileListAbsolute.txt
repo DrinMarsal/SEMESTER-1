@@ -1,0 +1,16 @@
+C:\Users\RIVEL\Desktop\UTS\soal 3 ( TiketBioskop )\bin\Debug\net5.0\soal 3 ( TiketBioskop ).exe
+C:\Users\RIVEL\Desktop\UTS\soal 3 ( TiketBioskop )\bin\Debug\net5.0\soal 3 ( TiketBioskop ).deps.json
+C:\Users\RIVEL\Desktop\UTS\soal 3 ( TiketBioskop )\bin\Debug\net5.0\soal 3 ( TiketBioskop ).runtimeconfig.json
+C:\Users\RIVEL\Desktop\UTS\soal 3 ( TiketBioskop )\bin\Debug\net5.0\soal 3 ( TiketBioskop ).runtimeconfig.dev.json
+C:\Users\RIVEL\Desktop\UTS\soal 3 ( TiketBioskop )\bin\Debug\net5.0\soal 3 ( TiketBioskop ).dll
+C:\Users\RIVEL\Desktop\UTS\soal 3 ( TiketBioskop )\bin\Debug\net5.0\ref\soal 3 ( TiketBioskop ).dll
+C:\Users\RIVEL\Desktop\UTS\soal 3 ( TiketBioskop )\bin\Debug\net5.0\soal 3 ( TiketBioskop ).pdb
+C:\Users\RIVEL\Desktop\UTS\soal 3 ( TiketBioskop )\obj\Debug\net5.0\soal 3 ( TiketBioskop ).csproj.AssemblyReference.cache
+C:\Users\RIVEL\Desktop\UTS\soal 3 ( TiketBioskop )\obj\Debug\net5.0\soal 3 ( TiketBioskop ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RIVEL\Desktop\UTS\soal 3 ( TiketBioskop )\obj\Debug\net5.0\soal 3 ( TiketBioskop ).AssemblyInfoInputs.cache
+C:\Users\RIVEL\Desktop\UTS\soal 3 ( TiketBioskop )\obj\Debug\net5.0\soal 3 ( TiketBioskop ).AssemblyInfo.cs
+C:\Users\RIVEL\Desktop\UTS\soal 3 ( TiketBioskop )\obj\Debug\net5.0\soal 3 ( TiketBioskop ).csproj.CoreCompileInputs.cache
+C:\Users\RIVEL\Desktop\UTS\soal 3 ( TiketBioskop )\obj\Debug\net5.0\soal 3 ( TiketBioskop ).dll
+C:\Users\RIVEL\Desktop\UTS\soal 3 ( TiketBioskop )\obj\Debug\net5.0\ref\soal 3 ( TiketBioskop ).dll
+C:\Users\RIVEL\Desktop\UTS\soal 3 ( TiketBioskop )\obj\Debug\net5.0\soal 3 ( TiketBioskop ).pdb
+C:\Users\RIVEL\Desktop\UTS\soal 3 ( TiketBioskop )\obj\Debug\net5.0\soal 3 ( TiketBioskop ).genruntimeconfig.cache

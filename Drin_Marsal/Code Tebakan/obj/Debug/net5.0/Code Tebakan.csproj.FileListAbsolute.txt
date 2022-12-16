@@ -1,0 +1,16 @@
+C:\Users\RIVEL\Desktop\Code Tebakan\obj\Debug\net5.0\Code Tebakan.csproj.AssemblyReference.cache
+C:\Users\RIVEL\Desktop\Code Tebakan\obj\Debug\net5.0\Code Tebakan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RIVEL\Desktop\Code Tebakan\obj\Debug\net5.0\Code Tebakan.AssemblyInfoInputs.cache
+C:\Users\RIVEL\Desktop\Code Tebakan\obj\Debug\net5.0\Code Tebakan.AssemblyInfo.cs
+C:\Users\RIVEL\Desktop\Code Tebakan\obj\Debug\net5.0\Code Tebakan.csproj.CoreCompileInputs.cache
+C:\Users\RIVEL\Desktop\Code Tebakan\bin\Debug\net5.0\Code Tebakan.exe
+C:\Users\RIVEL\Desktop\Code Tebakan\bin\Debug\net5.0\Code Tebakan.deps.json
+C:\Users\RIVEL\Desktop\Code Tebakan\bin\Debug\net5.0\Code Tebakan.runtimeconfig.json
+C:\Users\RIVEL\Desktop\Code Tebakan\bin\Debug\net5.0\Code Tebakan.runtimeconfig.dev.json
+C:\Users\RIVEL\Desktop\Code Tebakan\bin\Debug\net5.0\Code Tebakan.dll
+C:\Users\RIVEL\Desktop\Code Tebakan\bin\Debug\net5.0\ref\Code Tebakan.dll
+C:\Users\RIVEL\Desktop\Code Tebakan\bin\Debug\net5.0\Code Tebakan.pdb
+C:\Users\RIVEL\Desktop\Code Tebakan\obj\Debug\net5.0\Code Tebakan.dll
+C:\Users\RIVEL\Desktop\Code Tebakan\obj\Debug\net5.0\ref\Code Tebakan.dll
+C:\Users\RIVEL\Desktop\Code Tebakan\obj\Debug\net5.0\Code Tebakan.pdb
+C:\Users\RIVEL\Desktop\Code Tebakan\obj\Debug\net5.0\Code Tebakan.genruntimeconfig.cache

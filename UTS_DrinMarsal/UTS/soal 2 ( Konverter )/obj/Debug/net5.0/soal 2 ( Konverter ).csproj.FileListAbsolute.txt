@@ -1,0 +1,16 @@
+C:\Users\RIVEL\Desktop\UTS\soal 2 ( Konverter )\bin\Debug\net5.0\soal 2 ( Konverter ).exe
+C:\Users\RIVEL\Desktop\UTS\soal 2 ( Konverter )\bin\Debug\net5.0\soal 2 ( Konverter ).deps.json
+C:\Users\RIVEL\Desktop\UTS\soal 2 ( Konverter )\bin\Debug\net5.0\soal 2 ( Konverter ).runtimeconfig.json
+C:\Users\RIVEL\Desktop\UTS\soal 2 ( Konverter )\bin\Debug\net5.0\soal 2 ( Konverter ).runtimeconfig.dev.json
+C:\Users\RIVEL\Desktop\UTS\soal 2 ( Konverter )\bin\Debug\net5.0\soal 2 ( Konverter ).dll
+C:\Users\RIVEL\Desktop\UTS\soal 2 ( Konverter )\bin\Debug\net5.0\ref\soal 2 ( Konverter ).dll
+C:\Users\RIVEL\Desktop\UTS\soal 2 ( Konverter )\bin\Debug\net5.0\soal 2 ( Konverter ).pdb
+C:\Users\RIVEL\Desktop\UTS\soal 2 ( Konverter )\obj\Debug\net5.0\soal 2 ( Konverter ).csproj.AssemblyReference.cache
+C:\Users\RIVEL\Desktop\UTS\soal 2 ( Konverter )\obj\Debug\net5.0\soal 2 ( Konverter ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RIVEL\Desktop\UTS\soal 2 ( Konverter )\obj\Debug\net5.0\soal 2 ( Konverter ).AssemblyInfoInputs.cache
+C:\Users\RIVEL\Desktop\UTS\soal 2 ( Konverter )\obj\Debug\net5.0\soal 2 ( Konverter ).AssemblyInfo.cs
+C:\Users\RIVEL\Desktop\UTS\soal 2 ( Konverter )\obj\Debug\net5.0\soal 2 ( Konverter ).csproj.CoreCompileInputs.cache
+C:\Users\RIVEL\Desktop\UTS\soal 2 ( Konverter )\obj\Debug\net5.0\soal 2 ( Konverter ).dll
+C:\Users\RIVEL\Desktop\UTS\soal 2 ( Konverter )\obj\Debug\net5.0\ref\soal 2 ( Konverter ).dll
+C:\Users\RIVEL\Desktop\UTS\soal 2 ( Konverter )\obj\Debug\net5.0\soal 2 ( Konverter ).pdb
+C:\Users\RIVEL\Desktop\UTS\soal 2 ( Konverter )\obj\Debug\net5.0\soal 2 ( Konverter ).genruntimeconfig.cache

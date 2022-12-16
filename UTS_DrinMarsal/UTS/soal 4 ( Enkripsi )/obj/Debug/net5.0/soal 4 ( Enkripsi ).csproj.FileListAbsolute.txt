@@ -1,0 +1,16 @@
+C:\Users\RIVEL\Desktop\UTS\soal 4 ( Enkripsi )\bin\Debug\net5.0\soal 4 ( Enkripsi ).exe
+C:\Users\RIVEL\Desktop\UTS\soal 4 ( Enkripsi )\bin\Debug\net5.0\soal 4 ( Enkripsi ).deps.json
+C:\Users\RIVEL\Desktop\UTS\soal 4 ( Enkripsi )\bin\Debug\net5.0\soal 4 ( Enkripsi ).runtimeconfig.json
+C:\Users\RIVEL\Desktop\UTS\soal 4 ( Enkripsi )\bin\Debug\net5.0\soal 4 ( Enkripsi ).runtimeconfig.dev.json
+C:\Users\RIVEL\Desktop\UTS\soal 4 ( Enkripsi )\bin\Debug\net5.0\soal 4 ( Enkripsi ).dll
+C:\Users\RIVEL\Desktop\UTS\soal 4 ( Enkripsi )\bin\Debug\net5.0\ref\soal 4 ( Enkripsi ).dll
+C:\Users\RIVEL\Desktop\UTS\soal 4 ( Enkripsi )\bin\Debug\net5.0\soal 4 ( Enkripsi ).pdb
+C:\Users\RIVEL\Desktop\UTS\soal 4 ( Enkripsi )\obj\Debug\net5.0\soal 4 ( Enkripsi ).csproj.AssemblyReference.cache
+C:\Users\RIVEL\Desktop\UTS\soal 4 ( Enkripsi )\obj\Debug\net5.0\soal 4 ( Enkripsi ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RIVEL\Desktop\UTS\soal 4 ( Enkripsi )\obj\Debug\net5.0\soal 4 ( Enkripsi ).AssemblyInfoInputs.cache
+C:\Users\RIVEL\Desktop\UTS\soal 4 ( Enkripsi )\obj\Debug\net5.0\soal 4 ( Enkripsi ).AssemblyInfo.cs
+C:\Users\RIVEL\Desktop\UTS\soal 4 ( Enkripsi )\obj\Debug\net5.0\soal 4 ( Enkripsi ).csproj.CoreCompileInputs.cache
+C:\Users\RIVEL\Desktop\UTS\soal 4 ( Enkripsi )\obj\Debug\net5.0\soal 4 ( Enkripsi ).dll
+C:\Users\RIVEL\Desktop\UTS\soal 4 ( Enkripsi )\obj\Debug\net5.0\ref\soal 4 ( Enkripsi ).dll
+C:\Users\RIVEL\Desktop\UTS\soal 4 ( Enkripsi )\obj\Debug\net5.0\soal 4 ( Enkripsi ).pdb
+C:\Users\RIVEL\Desktop\UTS\soal 4 ( Enkripsi )\obj\Debug\net5.0\soal 4 ( Enkripsi ).genruntimeconfig.cache

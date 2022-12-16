@@ -1,0 +1,16 @@
+C:\Users\RIVEL\Desktop\GAME DADU\obj\Debug\net5.0\GAME DADU.csproj.AssemblyReference.cache
+C:\Users\RIVEL\Desktop\GAME DADU\obj\Debug\net5.0\GAME DADU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RIVEL\Desktop\GAME DADU\obj\Debug\net5.0\GAME DADU.AssemblyInfoInputs.cache
+C:\Users\RIVEL\Desktop\GAME DADU\obj\Debug\net5.0\GAME DADU.AssemblyInfo.cs
+C:\Users\RIVEL\Desktop\GAME DADU\obj\Debug\net5.0\GAME DADU.csproj.CoreCompileInputs.cache
+C:\Users\RIVEL\Desktop\GAME DADU\bin\Debug\net5.0\GAME DADU.exe
+C:\Users\RIVEL\Desktop\GAME DADU\bin\Debug\net5.0\GAME DADU.deps.json
+C:\Users\RIVEL\Desktop\GAME DADU\bin\Debug\net5.0\GAME DADU.runtimeconfig.json
+C:\Users\RIVEL\Desktop\GAME DADU\bin\Debug\net5.0\GAME DADU.runtimeconfig.dev.json
+C:\Users\RIVEL\Desktop\GAME DADU\bin\Debug\net5.0\GAME DADU.dll
+C:\Users\RIVEL\Desktop\GAME DADU\bin\Debug\net5.0\ref\GAME DADU.dll
+C:\Users\RIVEL\Desktop\GAME DADU\bin\Debug\net5.0\GAME DADU.pdb
+C:\Users\RIVEL\Desktop\GAME DADU\obj\Debug\net5.0\GAME DADU.dll
+C:\Users\RIVEL\Desktop\GAME DADU\obj\Debug\net5.0\ref\GAME DADU.dll
+C:\Users\RIVEL\Desktop\GAME DADU\obj\Debug\net5.0\GAME DADU.pdb
+C:\Users\RIVEL\Desktop\GAME DADU\obj\Debug\net5.0\GAME DADU.genruntimeconfig.cache

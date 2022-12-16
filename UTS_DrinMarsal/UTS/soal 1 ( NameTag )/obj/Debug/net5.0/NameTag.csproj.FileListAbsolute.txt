@@ -1,0 +1,32 @@
+C:\Users\RIVEL\Desktop\NameTag\obj\Debug\net5.0\NameTag.csproj.AssemblyReference.cache
+C:\Users\RIVEL\Desktop\NameTag\obj\Debug\net5.0\NameTag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RIVEL\Desktop\NameTag\obj\Debug\net5.0\NameTag.AssemblyInfoInputs.cache
+C:\Users\RIVEL\Desktop\NameTag\obj\Debug\net5.0\NameTag.AssemblyInfo.cs
+C:\Users\RIVEL\Desktop\NameTag\obj\Debug\net5.0\NameTag.csproj.CoreCompileInputs.cache
+C:\Users\RIVEL\Desktop\NameTag\bin\Debug\net5.0\NameTag.exe
+C:\Users\RIVEL\Desktop\NameTag\bin\Debug\net5.0\NameTag.deps.json
+C:\Users\RIVEL\Desktop\NameTag\bin\Debug\net5.0\NameTag.runtimeconfig.json
+C:\Users\RIVEL\Desktop\NameTag\bin\Debug\net5.0\NameTag.runtimeconfig.dev.json
+C:\Users\RIVEL\Desktop\NameTag\bin\Debug\net5.0\NameTag.dll
+C:\Users\RIVEL\Desktop\NameTag\bin\Debug\net5.0\ref\NameTag.dll
+C:\Users\RIVEL\Desktop\NameTag\bin\Debug\net5.0\NameTag.pdb
+C:\Users\RIVEL\Desktop\NameTag\obj\Debug\net5.0\NameTag.dll
+C:\Users\RIVEL\Desktop\NameTag\obj\Debug\net5.0\ref\NameTag.dll
+C:\Users\RIVEL\Desktop\NameTag\obj\Debug\net5.0\NameTag.pdb
+C:\Users\RIVEL\Desktop\NameTag\obj\Debug\net5.0\NameTag.genruntimeconfig.cache
+C:\Users\RIVEL\Desktop\UTS\soal 1 ( NameTag )\bin\Debug\net5.0\NameTag.exe
+C:\Users\RIVEL\Desktop\UTS\soal 1 ( NameTag )\bin\Debug\net5.0\NameTag.deps.json
+C:\Users\RIVEL\Desktop\UTS\soal 1 ( NameTag )\bin\Debug\net5.0\NameTag.runtimeconfig.json
+C:\Users\RIVEL\Desktop\UTS\soal 1 ( NameTag )\bin\Debug\net5.0\NameTag.runtimeconfig.dev.json
+C:\Users\RIVEL\Desktop\UTS\soal 1 ( NameTag )\bin\Debug\net5.0\NameTag.dll
+C:\Users\RIVEL\Desktop\UTS\soal 1 ( NameTag )\bin\Debug\net5.0\ref\NameTag.dll
+C:\Users\RIVEL\Desktop\UTS\soal 1 ( NameTag )\bin\Debug\net5.0\NameTag.pdb
+C:\Users\RIVEL\Desktop\UTS\soal 1 ( NameTag )\obj\Debug\net5.0\NameTag.csproj.AssemblyReference.cache
+C:\Users\RIVEL\Desktop\UTS\soal 1 ( NameTag )\obj\Debug\net5.0\NameTag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RIVEL\Desktop\UTS\soal 1 ( NameTag )\obj\Debug\net5.0\NameTag.AssemblyInfoInputs.cache
+C:\Users\RIVEL\Desktop\UTS\soal 1 ( NameTag )\obj\Debug\net5.0\NameTag.AssemblyInfo.cs
+C:\Users\RIVEL\Desktop\UTS\soal 1 ( NameTag )\obj\Debug\net5.0\NameTag.csproj.CoreCompileInputs.cache
+C:\Users\RIVEL\Desktop\UTS\soal 1 ( NameTag )\obj\Debug\net5.0\NameTag.dll
+C:\Users\RIVEL\Desktop\UTS\soal 1 ( NameTag )\obj\Debug\net5.0\ref\NameTag.dll
+C:\Users\RIVEL\Desktop\UTS\soal 1 ( NameTag )\obj\Debug\net5.0\NameTag.pdb
+C:\Users\RIVEL\Desktop\UTS\soal 1 ( NameTag )\obj\Debug\net5.0\NameTag.genruntimeconfig.cache
